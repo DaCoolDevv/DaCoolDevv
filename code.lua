@@ -1,2 +1,2 @@
-game.Workspace.DaCoolDevv.HumanoidRootPart.Jump = true
+game.Workspace["0bybyo"].Humanoid.Jump = true
 print("fire")
